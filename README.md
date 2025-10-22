@@ -49,11 +49,13 @@ Each customer receives an **R, F, and M score** (1–5), combined into an overal
 ![Dashboard Preview](images/powerbi_dashboard.png)
 
 **Key Visuals**
-- 📦 Total Sales, Revenue & Active Customers  
-- 🧮 RFM Segment Distribution  
-- 🌍 Country-wise Sales & Revenue Heatmap  
-- ⏰ Customer Recency Trend  
-- 💰 Top Customers by Monetary Value  
+- 📊 Overall KPIs: Total Revenue, Total Customers, and Average Order Value  
+- 🧮 RFM Segment Distribution: Customer segmentation based on Recency, Frequency & Monetary scores  
+- 🌍 Country-wise Sales: Geographic insights into top-performing regions  
+- 💰 Top 10 High-Value Customers by Monetary Value  
+- ⏰ Recency vs Frequency Scatter Chart: Visualizing customer engagement behavior  
+- 📅 Monthly Revenue Trend: Tracking sales performance over time  
+
 
 **Suggested Slicers**
 - Country  
