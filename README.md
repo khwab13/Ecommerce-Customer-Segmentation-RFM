@@ -44,7 +44,7 @@ Each customer receives an **R, F, and M score** (1–5), combined into an overal
 
 ---
 
-## 📊 Power BI Dashboard
+## 📊Ecommerce-RFM-Analysis Dashboard
 
 ![Dashboard Preview](https://github.com/khwab13/Ecommerce-Customer-Segmentation-RFM/blob/main/Dashboard_PowerBI/RFM_Dashboard.png)
 
