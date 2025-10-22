@@ -46,7 +46,7 @@ Each customer receives an **R, F, and M score** (1–5), combined into an overal
 
 ## 📊 Power BI Dashboard
 
-![Dashboard Preview](images/powerbi_dashboard.png)
+![Dashboard Preview](https://github.com/khwab13/Ecommerce-Customer-Segmentation-RFM/blob/main/Dashboard_PowerBI/RFM_Dashboard.png)
 
 **Key Visuals**
 - 📊 Overall KPIs: Total Revenue, Total Customers, and Average Order Value  
